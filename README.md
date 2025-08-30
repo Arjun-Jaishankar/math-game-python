@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a **Math Game** implemented in Python as part of the CSP300 - SOFTWARE LAB III Assignment at VNIT, Nagpur.  
+This repository contains a **Math Game** implemented in Python.  
 The project demonstrates project management and issue tracking using **JIRA**, including integration with GitHub for traceability, bug filing, and workflow reporting.
 
 ---
@@ -48,7 +48,7 @@ Input answers as prompted; ten points are awarded for every correct answer. Scor
   - Feature requests
   - UI/UX enhancements
   - Testing and validation
-- Each GitHub commit message references a JIRA Issue Key (CSP300-5: Fixed scoring bug) for automatic linking.
+- Each GitHub commit message references a JIRA Issue Key for automatic linking.
 - Sprints managed using Scrum boards in JIRA.
 - Plugins (Zephyr) used for test management and reporting.
 
@@ -69,16 +69,5 @@ Input answers as prompted; ten points are awarded for every correct answer. Scor
 - The math game will be executed live during lab evaluation.
 - All issues, bugs, and test cases will be demonstrated as being tracked and resolved in JIRA.
 - Key JIRA reports (Burndown Chart, Cumulative Flow Diagram) will be shown.
-
----
-
-## Assignment Summary
-
-This repository and JIRA integration fulfill CSP300 Assignment-2 requirements:
-- Complete, working codebase.
-- JIRA configuration with shared workflows.
-- Issues tracked, automated assignment applied, test management demonstrated.
-- Integration with GitHub for full traceability.
-- All processes, workflow, and analysis documented for evaluation.
 
 ---
