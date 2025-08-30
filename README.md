@@ -3,7 +3,7 @@
 ## Overview
 
 This repository contains a **Math Game** implemented in Python as part of the CSP300 - SOFTWARE LAB III Assignment at VNIT, Nagpur.  
-The project demonstrates project management and issue tracking using **JIRA**, including integration with GitHub for traceability, bug filing, and workflow reporting[3][4].
+The project demonstrates project management and issue tracking using **JIRA**, including integration with GitHub for traceability, bug filing, and workflow reporting.
 
 ---
 
@@ -21,7 +21,7 @@ The project demonstrates project management and issue tracking using **JIRA**, i
 
 ### Requirements
 
-- Python 3.7+
+- Python 3
 - Git
 
 ### Installation
@@ -48,9 +48,9 @@ Input answers as prompted; ten points are awarded for every correct answer. Scor
   - Feature requests
   - UI/UX enhancements
   - Testing and validation
-- Each GitHub commit message references a JIRA Issue Key (e.g., `CSP300-5: Fixed scoring bug`) for automatic linking.
+- Each GitHub commit message references a JIRA Issue Key (CSP300-5: Fixed scoring bug) for automatic linking.
 - Sprints managed using Scrum boards in JIRA.
-- Plugins (e.g., Zephyr) used for test management and reporting[4].
+- Plugins (Zephyr) used for test management and reporting.
 
 ---
 
@@ -72,12 +72,6 @@ Input answers as prompted; ten points are awarded for every correct answer. Scor
 
 ---
 
-## Contributors
-
-- [Your Name] – Developer, Project Manager
-
----
-
 ## Assignment Summary
 
 This repository and JIRA integration fulfill CSP300 Assignment-2 requirements:
@@ -85,14 +79,6 @@ This repository and JIRA integration fulfill CSP300 Assignment-2 requirements:
 - JIRA configuration with shared workflows.
 - Issues tracked, automated assignment applied, test management demonstrated.
 - Integration with GitHub for full traceability.
-- All processes, workflow, and analysis documented for evaluation[3].
-
----
-
-## References
-
-- VNIT CSP300 Assignment-2 guidelines[3]
-- JIRA documentation[4][1][2]
-- Zephyr Plugin for JIRA test management[4]
+- All processes, workflow, and analysis documented for evaluation.
 
 ---
