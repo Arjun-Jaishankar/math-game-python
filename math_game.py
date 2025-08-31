@@ -5,7 +5,7 @@ questions = [
     ("What is the capital of India?", "Delhi"),
     ("2 + 2 = ?", "4"),
     ("What is the largest planet?", "Jupiter"),
-    ("5 x 6 = ", "30"),
+    ("5 x 6 = ?", "30"),
     ("What language is used for Android apps?", "Java"),
     ("12 / 4 = ?", "3"),
     ("H2O is commonly known as?", "Water"),
