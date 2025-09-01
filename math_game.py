@@ -33,8 +33,8 @@ def play_quiz(player_name):
     return score, attempted
 
 def visualize_scores(score_data):
-    names = [name for name, _, _ in score_data]
-    scores = [score for _, score, _ in score_data]
+    names = [name for name, _ in score_data]
+    scores = [score for _, score in score_data]
 
     plt.figure(figsize=(8,6))
     bars = plt.bar(names, scores, color='skyblue')
